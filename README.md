@@ -3,14 +3,6 @@
   Replace placeholder links (banner, socials, project URLs) with your own.
 -->
 
-<!-- ===== HERO ===== -->
-
-<p align="center">
-  <!-- Light/Dark mode banners (optional). Replace with your own image URLs. -->
-  <img src="assets/elyse-banner-light.gif#gh-light-mode-only" alt="Elyse Messer — AI Engineer — light banner" width="100%">
-  <img src="assets/elyse-banner-dark.gif#gh-dark-mode-only" alt="Elyse Messer — AI Engineer — dark banner" width="100%">
-</p>
-
 <h1 align="center">Hey, I'm Elyse Messer 👋</h1>
 <h3 align="center">AI Engineer • Frontend Specialist</h3>
 
