@@ -90,8 +90,8 @@
 
 ### 🧭 Values & Interests
 
-Creating tech that feels **beautiful, effortless, trustworthy, and human**.
-Off the clock: hiking, travel, photography, organic cooking, board games, interior design, painting & crafts.
+* Creating tech that feels **beautiful, effortless, trustworthy, and human**.
+* Off the clock: hiking, travel, photography, organic cooking, board games, interior design, painting & crafts.
 
 ---
 
