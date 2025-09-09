@@ -39,7 +39,7 @@
   <br/>
   <ul>
     <li>Rightpoint — Senior Frontend Developer (2019 → 2024)</li> 
-    <li><Bread Factory Studios — Frontend Developer (2017 → 2019)</li>  
+    <li>Bread Factory Studios — Frontend Developer (2017 → 2019)</li>  
     <li>LevelEleven — Frontend UI/UX (2017 → 2019)</li> 
   </ul>
 </details>
